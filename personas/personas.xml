@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<personas
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="personas.xsd">
+<persona>
+  <nombre>Rafa</nombre>
+  <edad>18</edad>
+  <pais>España</pais>
+  <telefono>612345678</telefono>
+</persona>
+</personas>
