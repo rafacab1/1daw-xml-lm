@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<curriculums xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="curriculums.xsd">
+
+    <cv id="D1" fecha="2020-04-27" categoria="Desarrollador">
+    <datos_personales>
+      <nombre>Rafa</nombre>
+      <apellido1>Caballero</apellido1>
+      <apellido2>Osuna</apellido2>
+      <telefono>957123321</telefono>
+      <correo>rafacab@dominio.com</correo>
+      <direcciones>
+        <direccion>
+          <calle>Falsa</calle>
+          <localidad>Córdoba</localidad>
+          <codigopostal>14014</codigopostal>
+          <provincia>Córdoba</provincia>
+          <pais>España</pais>
+        </direccion>
+      </direcciones>
+      <rrss>
+        <nombre>Twitter</nombre>
+        <nick>rafacab1</nick>
+        <enlace>twitter.com</enlace>
+        <valoracion>3</valoracion>
+      </rrss>
+    </datos_personales>
+    <datos_academicos>
+      <titulaciones_oficiales>
+        <descripcion>CFGM Sistemas Microinformáticos y Redes</descripcion>
+        <organismo>Junta de Andalucía</organismo>
+        <fechaInicio>2017-09-15</fechaInicio>
+        <fechaFinalizacion>2019-05-13</fechaFinalizacion>
+      </titulaciones_oficiales>
+      <cursos>
+        <descripcion>Curso prevención riesgos laborales</descripcion>
+        <empresa>No Mas Golpes</empresa>
+        <fechaInicio>2019-04-27</fechaInicio>
+        <fechaFinalizacion>2019-04-29</fechaFinalizacion>
+      </cursos>
+      <nivelIdioma>
+        <comprender>B1</comprender>
+        <hablar>A1</hablar>
+        <escribir>A2</escribir>
+      </nivelIdioma>
+    </datos_academicos>
+    <experiencia_laboral>
+      <empresa>
+        <nombre>Empresita de Empresas</nombre>
+        <fechaInicio>2019-03-13</fechaInicio>
+        <fechaFinalizacion>2019-06-15</fechaFinalizacion>
+        <tarea>Hace cosas y eso</tarea>
+      </empresa>
+    </experiencia_laboral>
+    </cv>
+
+    <cv id="D2" fecha="2020-04-27" categoria="Desarrollador">
+    <datos_personales>
+      <nombre>Rafa</nombre>
+      <apellido1>Caballero</apellido1>
+      <apellido2>Osuna</apellido2>
+      <telefono>957123321</telefono>
+      <correo>rafacab@dominio.com</correo>
+      <direcciones>
+        <direccion>
+          <calle>Falsa</calle>
+          <localidad>Córdoba</localidad>
+          <codigopostal>14014</codigopostal>
+          <provincia>Córdoba</provincia>
+          <pais>España</pais>
+        </direccion>
+      </direcciones>
+      <rrss>
+        <nombre>Twitter</nombre>
+        <nick>rafacab1</nick>
+        <enlace>twitter.com</enlace>
+        <valoracion>3</valoracion>
+      </rrss>
+    </datos_personales>
+    <datos_academicos>
+      <titulaciones_oficiales>
+        <descripcion>CFGM Sistemas Microinformáticos y Redes</descripcion>
+        <organismo>Junta de Andalucía</organismo>
+        <fechaInicio>2017-09-15</fechaInicio>
+        <fechaFinalizacion>2019-05-13</fechaFinalizacion>
+      </titulaciones_oficiales>
+      <cursos>
+        <descripcion>Curso prevención riesgos laborales</descripcion>
+        <empresa>No Mas Golpes</empresa>
+        <fechaInicio>2019-04-27</fechaInicio>
+        <fechaFinalizacion>2019-04-29</fechaFinalizacion>
+      </cursos>
+      <nivelIdioma>
+        <comprender>B1</comprender>
+        <hablar>A1</hablar>
+        <escribir>A2</escribir>
+      </nivelIdioma>
+    </datos_academicos>
+    <experiencia_laboral>
+      <empresa>
+        <nombre>Empresita de Empresas</nombre>
+        <fechaInicio>2019-03-13</fechaInicio>
+        <fechaFinalizacion>2019-06-15</fechaFinalizacion>
+        <tarea>Hace cosas y eso</tarea>
+      </empresa>
+    </experiencia_laboral>
+    </cv>
+
+</curriculums>
